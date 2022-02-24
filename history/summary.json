@@ -1,6 +1,6 @@
 [
   {
-    "name": "Aprende con Confianza",
+    "name": "AprendeConConfianza",
     "url": "https://www.aprendeconconfianza.cl",
     "icon": "https://favicons.githubusercontent.com/www.aprendeconconfianza.cl",
     "slug": "aprende-con-confianza",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 1304,
-    "timeWeek": 1304,
-    "timeMonth": 1304,
-    "timeYear": 1304,
+    "time": 1213,
+    "timeDay": 1213,
+    "timeWeek": 1213,
+    "timeMonth": 1213,
+    "timeYear": 1213,
     "dailyMinutesDown": {}
   }
 ]
