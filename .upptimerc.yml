@@ -4,7 +4,7 @@ repo: logicbrains-upptime # The name of this repository
 
 sites:
   - name: Aprende con Confianza
-    url: https://aprendeconconfianza.cl
+    url: https://www.aprendeconconfianza.cl
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad (opcional) 
   - cchaconlbt
