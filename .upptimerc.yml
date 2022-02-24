@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.logicbrains.cl
   # baseUrl: /your-repo-name
-  name: Estados de nuestros servicios
+  name: Logic Brains Status Services
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**Monitor** de estados de nuestros servicios."
   introMessage: En nuestro repositorio de github podras indicar cualquier incidencia con nosotros ante cualquier eventualidad. 
@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: Logic Brains
-      href: "https://github.com/Logic-Brains-Technologies/logicbrains-upptime"
+      href: https://github.com/Logic-Brains-Technologies/logicbrains-upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
