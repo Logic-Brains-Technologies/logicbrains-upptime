@@ -14,9 +14,10 @@ assignees: # Usuarios para asignar problemas de tiempo de inactividad (opcional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  themeUrl: https://raw.githubusercontent.com/Logic-Brains-Technologies/logicbrains-upptime/master/assets/style-logicbrains.css
   cname: status.logicbrains.cl
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/Logic-Brains-Technologies/logicbrains-upptime/master/assets/logo-logicbrains.svg
+  logoUrl: https://raw.githubusercontent.com/Logic-Brains-Technologies/logicbrains-upptime/master/assets/logo-logicbrains-white.svg
   name: Logic Brains Services Status
   introTitle: "**Monitor** de estados de nuestros servicios."
   introMessage: En nuestro repositorio de github podras indicar cualquier incidencia con nosotros ante cualquier eventualidad. 
