@@ -1,5 +1,5 @@
 # Change these first
-owner: Logic Brains Technologies # Your GitHub organization or username, where this repository lives
+owner: Logic-Brains-Technologies # Your GitHub organization or username, where this repository lives
 repo: logicbrains-upptime # The name of this repository
 
 sites:
@@ -15,8 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.logicbrains.cl
   # baseUrl: /your-repo-name
-  name: Logic Brains Status Services
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Logic Brains Services Status
   introTitle: "**Monitor** de estados de nuestros servicios."
   introMessage: En nuestro repositorio de github podras indicar cualquier incidencia con nosotros ante cualquier eventualidad. 
   navbar:
