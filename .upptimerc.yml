@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: Logic Brains
-      href: https://github.com/Logic-Brains-Technologies/logicbrains-upptime
+      href: "https://github.com/Logic-Brains-Technologies/logicbrains-upptime"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
