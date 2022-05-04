@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.aprendeconconfianza.cl",
     "slug": "aprende-con-confianza",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.79%",
+    "uptimeDay": "16.63%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.79%",
     "time": 1163,
-    "timeDay": 1263,
-    "timeWeek": 1034,
-    "timeMonth": 1247,
+    "timeDay": 0,
+    "timeWeek": 982,
+    "timeMonth": 1227,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2022-05-03": 0
+      "2022-05-04": 6,
+      "2022-05-03": 1195
     }
   }
 ]
